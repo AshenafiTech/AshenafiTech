@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Ashenafi</h1>
 <h3 align="center">A passionate AWS Cloud Engineer/Software Engineer.</h3>
 
-- 👯 I’m looking to collaborate on **Cloud native**
+- 👯 I’m looking to collaborate on **Cloud native projects**
 
-- 🤝 I’m looking for help with **Devops**
+- 🤝 I’m looking for help with **DevOps**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
