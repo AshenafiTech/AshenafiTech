@@ -3,7 +3,7 @@
 
 - 👯 I’m looking to collaborate on **Cloud native projects**
 
-- 🤝 I’m looking for help with **DevOps**
+- 🤝 Currently, I'm learning **DevOps**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
