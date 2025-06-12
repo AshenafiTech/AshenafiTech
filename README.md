@@ -1,4 +1,4 @@
-About Me
+# About Me
 
 Hi, I'm Ashenafi! I’m a Backend Engineer and Cloud Engineer with a passion for turning ideas into production-ready solutions. I specialize in Python, Django, AWS, JavaScript, TypeScript, Docker, and Kubernetes.
 
