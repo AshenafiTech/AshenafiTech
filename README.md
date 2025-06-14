@@ -23,33 +23,6 @@ I'm a passionate software engineering student from Ethiopia, deeply interested i
 
 ---
 
-## 🔥 GitHub Stats
-
-<!-- GitHub Stats -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ashenafig&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" />
-</p>
-
-<!-- Streak Stats -->
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=ashenafig&theme=radical&hide_border=true" alt="GitHub Streak" />
-</p>
-
-<!-- Top Languages -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashenafig&layout=compact&theme=radical" alt="Top Languages" />
-</p>
-
----
-
-## 📈 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=ashenafig&theme=react-dark" alt="Contribution Graph" />
-</p>
-
----
-
 ## 📝 Latest Projects
 - **Live-Match** – Real-time sports match simulation with Observer pattern [Python, Docker]
 - **Weather Watcher** – Web testing and scraping app using Playwright and pytest
@@ -58,12 +31,12 @@ I'm a passionate software engineering student from Ethiopia, deeply interested i
 
 ---
 
-## 🤝 Let's Connect
+## Let's Connect
 - **LinkedIn:** [ashenafig](https://www.linkedin.com/in/ashenafig/)
 - **Twitter:** [@ashenafig](https://twitter.com/ashenafig)
 - **Email:** ashenafig@gmail.com
 
 ---
 
-⭐️ If you find my work interesting, consider following me or starring some repos!
+If you find my work interesting, consider following me or starring some repos!
 
