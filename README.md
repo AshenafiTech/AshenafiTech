@@ -8,7 +8,7 @@ Whether you’re starting with just an idea or looking to scale an established p
 
 ---
 
-## 🚀 Technologies I Work With
+## Technologies I Work With
 - **Languages:** Python, JavaScript, SQL, Bash
 - **Cloud Platforms:** AWS (Cloud Practitioner & Solutions Architect – Associate), Google Cloud (ML Engineer)
 - **Frameworks/Tools:** Django, Flask, TensorFlow, Docker, GitHub Actions
@@ -16,7 +16,7 @@ Whether you’re starting with just an idea or looking to scale an established p
 
 ---
 
-## 📝 Latest Projects
+## Latest Projects
 - **Live-Match** – Real-time sports match simulation with Observer pattern [Python, Docker]
 - **Weather Watcher** – Web testing and scraping app using Playwright and pytest
 - **CloudFormation App Setup** – AWS IaC deployment with networking, EC2, RDS, and SMTP config
