@@ -6,15 +6,11 @@ My credentials include AWS Certified Cloud Practitioner, AWS Certified Solutions
 Whether you’re starting with just an idea or looking to scale an established project, I’m here to help you go from concept to production—smoothly and efficiently.
 
 
----
-
 ## Technologies I Work With
 - **Languages:** Python, JavaScript, SQL, Bash
 - **Cloud Platforms:** AWS (Cloud Practitioner & Solutions Architect – Associate), Google Cloud (ML Engineer)
 - **Frameworks/Tools:** Django, Flask, TensorFlow, Docker, GitHub Actions
 - **DevOps:** CI/CD, Docker, Linux, Terraform (beginner)
-
----
 
 ## Latest Projects
 - **Live-Match** – Real-time sports match simulation with Observer pattern [Python, Docker]
