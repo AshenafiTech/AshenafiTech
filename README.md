@@ -24,5 +24,3 @@ My credentials include AWS Certified Cloud Practitioner, AWS Certified Solutions
 
 ---
 
-If you find my work interesting, consider following me or starring some repos!
-
