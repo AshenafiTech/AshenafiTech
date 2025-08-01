@@ -5,8 +5,8 @@ My credentials include AWS Certified Cloud Practitioner, AWS Certified Solutions
 
 ## Technologies I Work With
 - **Languages:** Python, JavaScript, TypeScript, SQL, Bash
-- **Cloud Platforms:** AWS (Cloud Practitioner & Solutions Architect – Associate), Google Cloud (ML Engineer)
-- **Frameworks/Tools:** Django, Flask, TensorFlow, Docker, GitHub Actions
-- **DevOps:** CI/CD, Docker, Linux, Terraform (beginner)
+- **Cloud Platforms:** AWS, Google Cloud, Azure
+- **Frameworks/Tools:** Django, FastAPI, Nodejs
+- **DevOps:** CI/CD, Docker, Kubernetes, Linux
 
 ---
