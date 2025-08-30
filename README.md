@@ -1,4 +1,4 @@
-# 👨‍💻 Ashenafi Kumbi  
+# 👨‍💻 Ashenafi Godana 
 **`Software Engineer | Cloud Engineer | AI Enthusiast`**
 
 ## About Me
