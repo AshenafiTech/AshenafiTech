@@ -56,7 +56,7 @@
 ---
 
 ## 📊 Stats
-![Ashenafi's GitHub stats](https://github-readme-stats.vercel.app/api?username=ashenafig&show_icons=true&theme=tokyonight)
+![Ashenafi's GitHub stats](https://github-readme-stats.vercel.app/api?username=ashenafiTech&show_icons=true&theme=tokyonight)
 ---
 
 ## 🔗 Links
