@@ -2,7 +2,7 @@
 **`Software Engineering Student | Cloud & ML Enthusiast`**
 
 ## About Me
-- 3rd-year Software Engineering student at Addis Ababa University with high academic excellence.  
+- 4rd-year Software Engineering student at Addis Ababa University with high academic excellence.  
 - AWS Certified Solutions Architect Associate, AWS Certified Cloud Practitioner, and Google Cloud Certified Professional Machine Learning Engineer.  
 - Experienced with cloud, backend engineering, and machine learning projects — always building, learning, and sharing.  
 - Passionate about leveraging **cloud computing & AI** to solve real-world problems.  
