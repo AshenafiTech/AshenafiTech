@@ -1,17 +1,68 @@
-<h1 align="center">Hi 👋, I'm Ashenafi</h1>
-<h3 align="center">A passionate Backend Engineer with a focus on utilizing cloud services and devOps</h3>
+# 👨‍💻 Ashenafi Kumbi  
+**`Software Engineering Student | Cloud & ML Enthusiast`**
 
-- 📝 I regularly write articles on [cloud and ai](cloud and ai)
+## About Me
+- 3rd-year Software Engineering student at Addis Ababa University with high academic excellence.  
+- AWS Certified Solutions Architect Associate, AWS Certified Cloud Practitioner, and Google Cloud Certified Professional Machine Learning Engineer.  
+- Experienced with cloud, backend engineering, and machine learning projects — always building, learning, and sharing.  
+- Passionate about leveraging **cloud computing & AI** to solve real-world problems.  
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/ashenafig" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ashenafig" height="30" width="40" /></a>
-<a href="https://medium.com/ashenafigodana" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="ashenafigodana" height="30" width="40" /></a>
-</p>
+---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+## 🛠️ Skill Stack
+[![My Skills](https://skillicons.dev/icons?i=python,docker,git,github,aws,gcp,postgresql,js,html,css&theme=light)](https://skillicons.dev)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ashenafitech&show_icons=true&locale=en&layout=compact" alt="ashenafitech" /></p>
+**Also comfortable with**: BigQuery, CI/CD pipelines, Networking (VPC, IAM), Pytest, Playwright, Flask (beginner), Haskell (learning).  
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ashenafitech&show_icons=true&locale=en" alt="ashenafitech" /></p>
+---
+
+## 🚀 Projects
+<table>
+  <tr>
+    <td align="center" width="33%">
+      <a href="https://github.com/your-username/docker-intro">
+        <img src="https://skillicons.dev/icons?i=docker" alt="Docker Project" width="80"/>
+      </a>
+      <br/>
+      <b>Hello World in Docker</b><br/>
+      <sub>Simple Python app containerized with Docker — my intro to containerization.</sub><br/>
+      🔗 <a href="https://github.com/your-username/docker-intro">Repo</a>
+      <br/>
+      <sub>Tags: Python, Docker</sub>
+    </td>
+    <td align="center" width="33%">
+      <a href="https://github.com/your-username/testing-weather-website">
+        <img src="https://skillicons.dev/icons?i=python" alt="Playwright Project" width="80"/>
+      </a>
+      <br/>
+      <b>Testing a Weather Website</b><br/>
+      <sub>Automated web testing with Playwright & Pytest (dynamic content, API mocking, reports).</sub><br/>
+      🔗 <a href="https://github.com/your-username/testing-weather-website">Repo</a>
+      <br/>
+      <sub>Tags: Python, Playwright, Testing</sub>
+    </td>
+    <td align="center" width="33%">
+      <a href="https://github.com/your-username/live-match">
+        <img src="https://skillicons.dev/icons?i=python" alt="Observer Pattern Project" width="80"/>
+      </a>
+      <br/>
+      <b>Live Match</b><br/>
+      <sub>Observer pattern app simulating real-time football match updates with terminal display.</sub><br/>
+      🔗 <a href="https://github.com/your-username/live-match">Repo</a>
+      <br/>
+      <sub>Tags: Python, Observer Pattern</sub>
+    </td>
+  </tr>
+</table>
+
+---
+
+## 📊 Stats
+![Ashenafi's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight)
+
+---
+
+## 🔗 Links
+- [**LinkedIn**](https://www.linkedin.com/in/ashenafig/)  
+- [**Portfolio Website**](https://github.com/your-username) *(coming soon!)*  
+
