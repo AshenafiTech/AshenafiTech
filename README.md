@@ -1,8 +1,8 @@
 # 👨‍💻 Ashenafi Kumbi  
-**`Software Engineering Student | Cloud & ML Enthusiast`**
+**`Software Engineer | Cloud Engineer | AI Enthusiast`**
 
 ## About Me
-- 4rd-year Software Engineering student at Addis Ababa University with high academic excellence.  
+- 4th-year Software Engineering student at Addis Ababa University with high academic excellence.  
 - AWS Certified Solutions Architect Associate, AWS Certified Cloud Practitioner, and Google Cloud Certified Professional Machine Learning Engineer.  
 - Experienced with cloud, backend engineering, and machine learning projects — always building, learning, and sharing.  
 - Passionate about leveraging **cloud computing & AI** to solve real-world problems.  
@@ -10,9 +10,7 @@
 ---
 
 ## 🛠️ Skill Stack
-[![My Skills](https://skillicons.dev/icons?i=python,docker,git,github,aws,gcp,postgresql,js,html,css&theme=light)](https://skillicons.dev)
-
-**Also comfortable with**: BigQuery, CI/CD pipelines, Networking (VPC, IAM), Pytest, Playwright, Flask (beginner), Haskell (learning).  
+[![My Skills](https://skillicons.dev/icons?i=python,docker,kubernetes,git,github,aws,gcp,postgresql,js,django,fastapi,html,css&theme=light)](https://skillicons.dev)
 
 ---
 
