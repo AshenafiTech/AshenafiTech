@@ -56,11 +56,10 @@
 ---
 
 ## 📊 Stats
-![Ashenafi's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight)
-
+![Ashenafi's GitHub stats](https://github-readme-stats.vercel.app/api?username=ashenafig&show_icons=true&theme=tokyonight)
 ---
 
 ## 🔗 Links
 - [**LinkedIn**](https://www.linkedin.com/in/ashenafig/)  
-- [**Portfolio Website**](https://github.com/your-username) *(coming soon!)*  
+- [**Portfolio Website**](ashenafigodana.com)
 
