@@ -14,6 +14,7 @@
 
 ---
 
+<!--
 ## 🚀 Projects
  <table>
   <tr>
@@ -52,14 +53,17 @@
     </td>
   </tr>
 </table>
+-->
 
 ---
 
+<!--
 ## 📝 Blogs
 - [Starting with Cloud AI and Python Development](https://your-blog-link.com/cloud-ai-python) — Sharing my learning journey and projects in cloud and AI.  
 - [Containerizing Python Apps with Docker](https://your-blog-link.com/docker-python) — Step-by-step guide to Dockerizing a simple Python app.  
 - [Automated Web Testing with Playwright](https://your-blog-link.com/playwright-testing) — How I built tests for dynamic websites using Playwright and Pytest.  
 - [Real-time Event Simulation in Python](https://your-blog-link.com/observer-pattern) — Implementing the Observer pattern for live notifications in terminal apps.  
+-->
 
 ---
 
