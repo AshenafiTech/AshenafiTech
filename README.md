@@ -15,7 +15,7 @@
 ---
 
 ## 🚀 Projects
-<table>
+## <table>
   <tr>
     <td align="center" width="33%">
       <a href="https://github.com/your-username/docker-intro">
