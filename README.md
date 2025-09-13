@@ -57,13 +57,11 @@
 
 ---
 
-<!--
 ## 📝 Blogs
-- [Starting with Cloud AI and Python Development](https://your-blog-link.com/cloud-ai-python) — Sharing my learning journey and projects in cloud and AI.  
-- [Containerizing Python Apps with Docker](https://your-blog-link.com/docker-python) — Step-by-step guide to Dockerizing a simple Python app.  
-- [Automated Web Testing with Playwright](https://your-blog-link.com/playwright-testing) — How I built tests for dynamic websites using Playwright and Pytest.  
-- [Real-time Event Simulation in Python](https://your-blog-link.com/observer-pattern) — Implementing the Observer pattern for live notifications in terminal apps.  
--->
+- [How to Succeed in the AWS Cloud Clubs Application](https://medium.com/@ashenafiGodana/how-to-succeed-in-the-aws-cloud-clubs-application-3b932e86aeff) — Sharing my journey on how I succeeded in the AWS Cloud Clubs Application.  
+- [Serverless Orchestration using AWS Step Functions](https://medium.com/@ashenafiGodana/serverless-orchestration-using-aws-step-functions-3a3843454a61) — AWS step function, and how it is used to orchestrate various workflows..  
+- [Deploying Highly Available Multi-Tier Applications](https://medium.com/@ashenafiGodana/deploying-highly-available-multi-tier-applications-9760d4bb8db5) —  architecting and deploying a multi-tier application on AWS while implementing high availability and fault tolerance measures.  
+- [Launch Amazon EC2(Elastic Compute Cloud)](https://medium.com/@ashenafiGodana/deploy-amazon-ec2-elastic-compute-cloud-d02cd049ac10) 
 
 ---
 
