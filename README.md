@@ -18,6 +18,17 @@
  <table>
   <tr>
     <td align="center" width="33%">
+      <a href="https://github.com/AshenafiTech/credit-risk-model">
+        <img src="https://skillicons.dev/icons?i=python" alt="Credit Risk Model Project" width="80"/>
+      </a>
+      <br/>
+      <b>Credit Risk Model</b><br/>
+      <sub>Machine learning model for predicting credit risk using classification algorithms, feature engineering, and model evaluation.</sub><br/>
+      🔗 <a href="https://github.com/AshenafiTech/credit-risk-model">Repo</a>
+      <br/>
+      <sub>Tags: Python, Machine Learning, Classification</sub>
+    </td>
+    <td align="center" width="33%">
       <a href="https://github.com/your-username/docker-intro">
         <img src="https://skillicons.dev/icons?i=docker" alt="Docker Project" width="80"/>
       </a>
@@ -39,6 +50,8 @@
       <br/>
       <sub>Tags: Python, Playwright, Testing</sub>
     </td>
+  </tr>
+  <tr>
     <td align="center" width="33%">
       <a href="https://github.com/your-username/live-match">
         <img src="https://skillicons.dev/icons?i=python" alt="Observer Pattern Project" width="80"/>
@@ -71,4 +84,4 @@
 ## 🔗 Links
 - [**LinkedIn**](https://www.linkedin.com/in/ashenafig/)  
 - [**Portfolio Website**](ashenafigodana.com)  
-- [**Blog**](https://medium.com/@ashenafiGodana)
+- [**Blog**](https://medium.com/@ashenafiGodana)  
