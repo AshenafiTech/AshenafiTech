@@ -1,5 +1,5 @@
 # 👨‍💻 Ashenafi Godana 
-**`Software Engineer | Cloud Engineer | AI Enthusiast`**
+**Software Engineer | Cloud Engineer | AI Enthusiast**
 
 ## About Me
 - 4th-year Software Engineering student at Addis Ababa University with high academic excellence.  
@@ -18,27 +18,16 @@
  <table>
   <tr>
     <td align="center" width="33%">
-      <a href="https://github.com/AshenafiTech/credit-risk-model">
-        <img src="https://skillicons.dev/icons?i=python" alt="Credit Risk Model Project" width="80"/>
+      <a href="https://github.com/your-username/docker-intro">
+        <img src="https://skillicons.dev/icons?i=docker" alt="Docker Project" width="80"/>
       </a>
       <br/>
-      <b>Credit Risk Model</b><br/>
-      <sub>Machine learning model for predicting credit risk using classification algorithms, feature engineering, and model evaluation.</sub><br/>
-      🔗 <a href="https://github.com/AshenafiTech/credit-risk-model">Repo</a>
+      <b>Hello World in Docker</b><br/>
+      <sub>Simple Python app containerized with Docker — my intro to containerization.</sub><br/>
+      🔗 <a href="https://github.com/your-username/docker-intro">Repo</a>
       <br/>
-      <sub>Tags: Python, Machine Learning, Classification</sub>
+      <sub>Tags: Python, Docker</sub>
     </td>
-    <td align="center" width="33%">
-  <a href="https://github.com/AshenafiTech/credit-risk-model">
-    <img src="https://skillicons.dev/icons?i=python,mlflow,fastapi" alt="Credit Risk Model Project" width="80"/>
-  </a>
-  <br/>
-  <b>Credit Risk Model</b><br/>
-  <sub>Built for Bati Bank’s BNPL service: engineered RFM-features, proxy risk target; model training, API serving, CI/CD, and model tracking.</sub><br/>
-  🔗 <a href="https://github.com/AshenafiTech/credit-risk-model">Repo</a><br/>
-  <sub>Tags: Python, MLflow, FastAPI, Feature Engineering, CI/CD, Docker</sub>
-</td>
-
     <td align="center" width="33%">
       <a href="https://github.com/your-username/testing-weather-website">
         <img src="https://skillicons.dev/icons?i=python" alt="Playwright Project" width="80"/>
@@ -50,8 +39,6 @@
       <br/>
       <sub>Tags: Python, Playwright, Testing</sub>
     </td>
-  </tr>
-  <tr>
     <td align="center" width="33%">
       <a href="https://github.com/your-username/live-match">
         <img src="https://skillicons.dev/icons?i=python" alt="Observer Pattern Project" width="80"/>
@@ -84,4 +71,4 @@
 ## 🔗 Links
 - [**LinkedIn**](https://www.linkedin.com/in/ashenafig/)  
 - [**Portfolio Website**](ashenafigodana.com)  
-- [**Blog**](https://medium.com/@ashenafiGodana)  
+- [**Blog**](https://medium.com/@ashenafiGodana)
