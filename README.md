@@ -29,16 +29,16 @@
       <sub>Tags: Python, Machine Learning, Classification</sub>
     </td>
     <td align="center" width="33%">
-      <a href="https://github.com/your-username/docker-intro">
-        <img src="https://skillicons.dev/icons?i=docker" alt="Docker Project" width="80"/>
-      </a>
-      <br/>
-      <b>Hello World in Docker</b><br/>
-      <sub>Simple Python app containerized with Docker — my intro to containerization.</sub><br/>
-      🔗 <a href="https://github.com/your-username/docker-intro">Repo</a>
-      <br/>
-      <sub>Tags: Python, Docker</sub>
-    </td>
+  <a href="https://github.com/AshenafiTech/credit-risk-model">
+    <img src="https://skillicons.dev/icons?i=python,mlflow,fastapi" alt="Credit Risk Model Project" width="80"/>
+  </a>
+  <br/>
+  <b>Credit Risk Model</b><br/>
+  <sub>Built for Bati Bank’s BNPL service: engineered RFM-features, proxy risk target; model training, API serving, CI/CD, and model tracking.</sub><br/>
+  🔗 <a href="https://github.com/AshenafiTech/credit-risk-model">Repo</a><br/>
+  <sub>Tags: Python, MLflow, FastAPI, Feature Engineering, CI/CD, Docker</sub>
+</td>
+
     <td align="center" width="33%">
       <a href="https://github.com/your-username/testing-weather-website">
         <img src="https://skillicons.dev/icons?i=python" alt="Playwright Project" width="80"/>
